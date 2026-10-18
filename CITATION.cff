@@ -11,7 +11,7 @@ authors:
   - family-names: "Akbari"
     given-names: "Hamed"
     affiliation: "Santa Clara University"
-repository-code: "https://github.com/Sarah-2021-scu/EEGTransformer-Schizophrenia"
+repository-code: "https://github.com/Sarah-scu/EEGTransformer-Schizophrenia"
 preferred-citation:
   type: article
   title: "Transformer-Based Modeling of Electroencephalography for Schizophrenia Classification and Risk Score"
