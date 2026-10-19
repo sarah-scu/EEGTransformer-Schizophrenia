@@ -33,5 +33,5 @@ python train.py
 If you use this code, please cite:
 
 > A. Flinn, S. Anjum, and H. Akbari, "Transformer-Based Modeling of
-> Electroencephalography for Schizophrenia Classification and Risk Score,"
+> Electroencephalography for Schizophrenia Classification,"
 > Array (under review), 2026.
