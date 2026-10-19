@@ -3,7 +3,7 @@
 This repository contains the official PyTorch implementation and preprocessing pipeline for our manuscript submitted to ARRAY: **"Transformer-Based Modeling of Electroencephalography for Schizophrenia Classification."**
 
 ## Overview
-We propose a VRAM-optimized Transformer framework utilizing Flash Attention to process continuous 3-minute EEG windows (128 channels × 45,000 timepoints). The model performs binary classification (Schizophrenia vs. Healthy Control).
+We propose a VRAM-optimized Transformer framework utilizing Flash Attention to process continuous 3-minute EEG windows (128 channels × 45,000 timepoints). The model performs binary classification (Schizophrenia vs. Healthy Control) and generates a continuous model-derived classification score.
 
 ## Dataset
 This pipeline is designed to run on the publicly available NEMAR ds004000 dataset.
